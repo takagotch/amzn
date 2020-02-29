@@ -9,6 +9,11 @@ https://developer.amazon.com/public/ja/resources/documentation
 https://www.amazon.co.jp/androidapp 
 
 
+https://www.amazon.co.jp/ref=nav_logo
+
+https://www.amazon.com/
+
+
 ```
 ```
 
