@@ -9,7 +9,7 @@ https://developer.amazon.com/public/ja/resources/documentation
 https://www.amazon.co.jp/androidapp 
 
 #### jp
-https://www.amazon.co.jp/ref=nav_logo
+https://www.amazon.co.jp/
 #### us
 https://www.amazon.com/
 
