@@ -13,7 +13,7 @@ https://www.amazon.co.jp/
 #### us
 https://www.amazon.com/
 
-###### (amazon pay)[https://pay.amazon.co.jp/signup]
+###### [amazon pay](https://pay.amazon.co.jp/signup)
 https://pay.amazon.co.jp/signup
 
 
